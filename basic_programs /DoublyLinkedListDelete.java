@@ -8,7 +8,6 @@ class Node {
         this.data = data;
     }
 }
-
 public class DoublyLinkedListDelete {
     Node head;
 
